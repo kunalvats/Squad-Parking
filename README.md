@@ -2,20 +2,26 @@ SquadVoice Parking Lot Task
 =================================================
 
 
-####Problem Statement
+Problem Statement
+====================
+
 Creating a Object Oriented Parking Lot.
 
-####Technology Used
+Technology Used
+====================
 1. Python 3.x
 2. PyCharm IDE
 3. Terminal
 
-####Build Instructions
+Build Instructions
+====================
 `python Main.py <input.txt>`
 
-####Output Format
+Output Format
+========================================
 
-######Input
+Input
+====================
 Terminal : `python Main.py input.txt`
 
 input.txt contains:
@@ -30,7 +36,8 @@ input.txt contains:
 `Park HR-29-TG-3098 driver_age 39` \
 `Vehicle_registration_number_for_driver_of_age 18` 
 
-######Output
+Output
+====================
 
 `Created a parking lot with 6 slots` \
 `Car with vehicle registration KA-01-HH-1234 has been parked at slot number  1` \
